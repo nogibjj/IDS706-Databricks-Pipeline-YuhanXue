@@ -142,7 +142,7 @@ To automate the data pipeline with a Databricks job, a workflow `Song_workflow` 
 ## Results
 
 Partial results for the first query:
-![Alt text](Results/res-1.png.png)
+![Alt text](Results/res-1.png)
 
 Partial results for the second query:
 ![Alt text](Results/res-2.png)
